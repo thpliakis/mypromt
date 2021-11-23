@@ -1,6 +1,6 @@
 # myshell
 
-myshell is a simple prompt which is the assignment/project for my university class Operating System. It has 2 modes interactive and batch.In interactive mode it works like a simple prompt, waiting and executing commands by the user.In batch mode it reads a file with commands and executes them.It has rediractions and pipe implemented.
+Myshell is a simple prompt which is the assignment/project for my university class Operating System. It has 2 modes, interactive and batch. In interactive mode it works like a simple prompt, waiting and executing commands by the user.In batch mode it reads a file with commands and executes them. It has rediractions and pipe implemented.
 
 ## Getting Started
 
